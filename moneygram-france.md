@@ -1,3 +1,4 @@
+# Moneygram fee : send money from France
 |from|to |min   |max   |fee   |
 |----|---|------|------|------|
 |FR  |MA |0     |100.01|1.99  |
