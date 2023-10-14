@@ -1,3 +1,5 @@
+# Ria Money Transfer from France to Algeria with Bank transfer Type fee :
+
 |from|to |min |max  |fee|
 |----|---|----|-----|---|
 |FR  |DZ |0   |100  |3  |
